@@ -1,7 +1,8 @@
 #+TITLE: CSS for Org-exported HTML
 #+SUBTITLE: A Clean and Comfort Stylesheet
 
-#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="org.css"/>
+# #+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="org.css"/>
+#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="org-diego.css"/>
 
 # if you need code highlight from highlight.js, include the following
 # three lines, explained in the article.
